@@ -2681,7 +2681,7 @@
     </path>
 
     <path name="afe-sidetone">
-        <ctl name="Voice Sidetone Enable" value="1" />
+        <ctl name="Voice Sidetone Enable" value="0" />
     </path>
 
     <path name="speaker-mic">
